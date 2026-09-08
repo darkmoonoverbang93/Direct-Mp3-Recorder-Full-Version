@@ -235,3 +235,6 @@ This repository serves as the official landing page for **Direct MP3 Recorder**.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Direct MP3 Recorder today!**
+
+---
+**Last updated:** 2026-09-08 00:04:46 UTC
